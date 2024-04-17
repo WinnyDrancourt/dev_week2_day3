@@ -1,12 +1,29 @@
 # Dev / Week 2 Day 3
+
+---
+
+# Projets : Algorithmes de tri
+
+- Capable de gerer une liste que l'on peut moduler.
+  -Tri à bulles. Tu pourras trouver une explication du tri à bulles par Mosh Hamedani ici (les 4 premières minutes)
+  -Tri par insertion. Tu pourras trouver une explication du par insertion par Mosh Hamedani ici (les 5 premières minutes) ou par Harsha Suryanarayana, ici
+  -Tri par sélection. Tu pourras trouver une explication du par sélection par Michael Sambol ici ou par Harsha Suryanarayana, ici
+  -Tri rapide (quicksort). Tu pourras trouver une explication du par sélection par YK Sugishita ici ou par Harsha Suryanarayana, ici
+    Attention, ici on prendra le premier nombre du tableau comme pivot
+
+- Pour le faire fonctionner : 
+  -Dans la console : ```node app.js list.txt```
+
 ---
 
 # Projets : El Famoso merge
 
 - Un fichier JS que l'on peut exécuter en lui donnant en paramètre le nom d'un fichier contenant une liste de nombres. Il affichera dans la console le nom de l'algorithme utilisé, suivi du nombre de comparaisons effectuées, puis le tableau résultant de la sortie de ton algorithme !
 
-- Pour le lancer : 
+- Pour le faire fonctionner : 
   -Dans la console : ```node tri.js list.txt```
+
+---
 
 # Projets : Algorithmes, encore
 
