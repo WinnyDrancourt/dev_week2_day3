@@ -5,12 +5,12 @@
 # Projets : Algorithmes de tri
 
 - Capable de gerer une liste que l'on peut moduler.
-  -Tri à bulles. Tu pourras trouver une explication du tri à bulles par Mosh Hamedani ici (les 4 premières minutes)
-  -Tri par insertion. Tu pourras trouver une explication du par insertion par Mosh Hamedani ici (les 5 premières minutes) ou par Harsha Suryanarayana, ici
-  -Tri par sélection. Tu pourras trouver une explication du par sélection par Michael Sambol ici ou par Harsha Suryanarayana, ici
-  -Tri rapide (quicksort). Tu pourras trouver une explication du par sélection par YK Sugishita ici ou par Harsha Suryanarayana, ici
-    Attention, ici on prendra le premier nombre du tableau comme pivot
-
+  -Tri à bulles. Tu pourras trouver une explication du tri à bulles par Mosh Hamedani ici (les 4 premières minutes)  
+  -Tri par insertion. Tu pourras trouver une explication du par insertion par Mosh Hamedani ici (les 5 premières minutes) ou par Harsha Suryanarayana, ici  
+  -Tri par sélection. Tu pourras trouver une explication du par sélection par Michael Sambol ici ou par Harsha Suryanarayana, ici  
+  -Tri rapide (quicksort). Tu pourras trouver une explication du par sélection par YK Sugishita ici ou par Harsha Suryanarayana, ici  
+    Attention, ici on prendra le premier nombre du tableau comme pivot  
+ 
 - Pour le faire fonctionner : 
   -Dans la console : ```node app.js list.txt```
 
